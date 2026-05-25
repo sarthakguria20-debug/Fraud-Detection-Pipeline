@@ -1,0 +1,6 @@
+{
+  "name": "Fraud Detection Pipeline",
+  "description": "A real-time stream processing simulator that detects suspicious transactions using sliding window algorithms and concurrency concepts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
